@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @abuelayyan (Omar Elayyan)
 - 👀 I’m am full-stack software engineer
-- 🌱 I’m currently learning so many things in the field, Java (Backend) coding, Apache Spark, ML
+- 🌱 I’m currently working in Frontend and Backend Web Applications Development, and Big Data
 - 📫 How to reach me ombelayyan@yahoo.com
+- ✨ I'm eager to learn ML, Data Science, Big Data and ML
 
 <!---
 abuelayyan/abuelayyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
